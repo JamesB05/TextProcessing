@@ -6,6 +6,12 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
+//Could add a summary comment
+//no validation of user input for empty entries
+//Does not use classes 
+//assumes file content is readable andformatted correctly
+//could improve output
+
 namespace TextProcessing
 {
     internal class Program
